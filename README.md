@@ -1,7 +1,7 @@
 
 
 # Degensquad
-![presentation](images/presentation.gif)
+![presentation](img/presentation.gif)
 Degensquad is a web project dedicated to promoting WEB3. It provides insights, resources, and engagement opportunities for the Web3 community. The site is built using JavaScript for interactivity and CSS for styling.
 
 ## Features
